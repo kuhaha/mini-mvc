@@ -20,6 +20,8 @@ class UserController extends Controller
    public function addAction()
    {
       $user = $this->model->getUser();
+      $user['uid'] = 'user01';
+      $user['uname'] = 'ユーザ01';
       $this->model->add($user);
       $this->listAction();
    }

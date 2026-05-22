@@ -1,7 +1,7 @@
 ## MVCモデルをデモするミニサンプル
 
 ### 使い方
-1．リポジトリをPC上WebサーバーのDocumentRoot以下にダウンロード・解凍、もしくは、クローンする
+1. リポジトリをPC上WebサーバーのDocumentRoot以下にダウンロード・解凍、もしくは、クローンする
 2. Webサーバー（with PHP）を起動する
 3. ブラウザ上でページを開く（http://localhost/mini-mvc/index.php）
 

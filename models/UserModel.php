@@ -2,7 +2,7 @@
 class Model
 {
    // データベース接続やCRUD操作 
-   // 今回はDBを利用しない前提のため、空のままにする
+   // 今回はDBを利用しない前提で空のままにする
 }
 
 class UserModel extends Model
